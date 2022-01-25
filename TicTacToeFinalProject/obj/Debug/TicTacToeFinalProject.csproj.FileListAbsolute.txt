@@ -1,0 +1,6 @@
+C:\Users\gilin\OneDrive\Desktop\TicTacToeFinalProject\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\gilin\OneDrive\Desktop\TicTacToeFinalProject\bin\TypeScriptHTMLApp1.dll
+C:\Users\gilin\OneDrive\Desktop\TicTacToeFinalProject\bin\TypeScriptHTMLApp1.pdb
+C:\Users\gilin\OneDrive\Desktop\TicTacToeFinalProject\obj\Debug\TicTacToeFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\gilin\OneDrive\Desktop\TicTacToeFinalProject\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\gilin\OneDrive\Desktop\TicTacToeFinalProject\obj\Debug\TypeScriptHTMLApp1.pdb
